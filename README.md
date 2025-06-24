@@ -1,2 +1,2 @@
-# ROM-FPGA-MorseGame
-A ROM-based Morse Code Challenge game for Intel Cyclone V FPGA using Verilog. Features multi-user authentication via EPCS64 flash, time-limited levels, score tracking with RAM, progressive difficulty, and real-time feedback. Simulated and verified using ModelSim with full testbench coverage.
+# ROM-Based Morse Code Challenge on FPGA
+An interactive Morse Code Challenge game implemented on the Intel Cyclone V (5CEBA4F23C7N) using Verilog and Quartus Prime. Features include multi-user authentication with secure login via EPCS64 flash, time-limited levels with progressive difficulty, real-time score tracking using RAM, and modular, scalable architecture. Simulated and verified using ModelSim with comprehensive testbenches for ROM, RAM, timing, and authentication modules.
