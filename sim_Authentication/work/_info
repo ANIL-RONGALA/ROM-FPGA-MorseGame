@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ADD_Demos/ADD_Final_Project/sim_PSWD_Authentication
+vAuthentication
+Z0 !s110 1715152280
+!i10b 1
+!s100 Bn;<nToMl;WO`c@MJaa`S0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoUfi4lERXaX5;HWb^3_Gd3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ADD_Demos/ADD_Final_Project/sim_Authentication
+w1715150509
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/Authentication.v
+!i122 52
+L0 1 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1715152280.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/Authentication.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@authentication
+vPlayerID
+Z8 !s110 1715152279
+!i10b 1
+!s100 lXM;9PV>6:S:lBjhV[l4C3
+R1
+I0n[Md=5V7L@GC_zK5j[:k2
+R2
+R3
+w1714893115
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID.v
+!i122 46
+L0 8 149
+R4
+r1
+!s85 0
+31
+Z9 !s108 1715152279.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID.v|
+!i113 1
+R6
+R7
+n@player@i@d
+vPlayerID_Authentication
+R8
+!i10b 1
+!s100 ]YmC_h9RO5]he2zFXhl5b0
+R1
+I8BQToRf:T89B>0]zGTA]?3
+R2
+R3
+w1714890782
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID_Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID_Authentication.v
+!i122 47
+L0 1 16
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID_Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PlayerID_Authentication.v|
+!i113 1
+R6
+R7
+n@player@i@d_@authentication
+vPSWD
+R8
+!i10b 1
+!s100 `_BaBSgU5Z6?=h?3<ijz33
+R1
+I:j_:nE6cK:BMl`28Sd=6I0
+R2
+R3
+w1714904829
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD.v
+!i122 48
+L0 6 204
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD.v|
+!i113 1
+R6
+R7
+n@p@s@w@d
+vPSWD_Authentication
+R0
+!i10b 1
+!s100 1EMMFMBUFPGnl9cLCJzbX2
+R1
+INABRkoXFST[fT^F[e@T?:3
+R2
+R3
+w1715149323
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD_Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD_Authentication.v
+!i122 49
+L0 6 22
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD_Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/PSWD_Authentication.v|
+!i113 1
+R6
+R7
+n@p@s@w@d_@authentication
+vROM_PlayerID
+R0
+!i10b 1
+!s100 WiFVfg2WQIa9od7hmAH<81
+R1
+IOBeUDGjY=`KU5g8kOOZBW2
+R2
+R3
+w1714876353
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PlayerID.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PlayerID.v
+!i122 50
+Z10 L0 40 66
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PlayerID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PlayerID.v|
+!i113 1
+R6
+R7
+n@r@o@m_@player@i@d
+vROM_PSWD
+R0
+!i10b 1
+!s100 HD3B;S[4b?_hG:n[fFWTH1
+R1
+IYan0MhTG5T13hHAN2j>mK3
+R2
+R3
+w1714892691
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PSWD.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PSWD.v
+!i122 51
+R10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PSWD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/ROM_PSWD.v|
+!i113 1
+R6
+R7
+n@r@o@m_@p@s@w@d
+vtestbench_Authentication
+R0
+!i10b 1
+!s100 IPM]kXg^fe_37`o;=dk9e1
+R1
+IhzzZ4HX``omhNg;5U][O[1
+R2
+R3
+w1715152272
+8C:/ADD_Demos/ADD_Final_Project/sim_Authentication/testbench_Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_Authentication/testbench_Authentication.v
+!i122 53
+L0 2 532
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_Authentication/testbench_Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_Authentication/testbench_Authentication.v|
+!i113 1
+R6
+R7
+ntestbench_@authentication
