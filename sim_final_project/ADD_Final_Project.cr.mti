@@ -1,0 +1,155 @@
+C:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TenSecTimer
+
+Top level modules:
+	TenSecTimer
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gamecontrol
+
+Top level modules:
+	gamecontrol
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module morse_number_decoder
+
+Top level modules:
+	morse_number_decoder
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module My7seg
+
+Top level modules:
+	My7seg
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gamecontrol_easy
+
+Top level modules:
+	gamecontrol_easy
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR_number_generator
+
+Top level modules:
+	LFSR_number_generator
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PSWD
+
+Top level modules:
+	PSWD
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module button_shaper
+
+Top level modules:
+	button_shaper
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_ADD_Final_Project
+
+Top level modules:
+	testbench_ADD_Final_Project
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_PlayerID
+
+Top level modules:
+	ROM_PlayerID
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module morse_number_easy
+
+Top level modules:
+	morse_number_easy
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/ADD_Final_Project.v {1 {vlog -work work -stats=none {C:\ADD_Demos\ADD_Final_Project\sim_final_project\ADD_Final_Project.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ADD_Final_Project
+
+Top level modules:
+	ADD_Final_Project
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PlayerID_Authentication
+
+Top level modules:
+	PlayerID_Authentication
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnemsTimer_lfsr
+
+Top level modules:
+	OnemsTimer_lfsr
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer100
+
+Top level modules:
+	Timer100
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DigitTimer
+
+Top level modules:
+	DigitTimer
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_PSWD
+
+Top level modules:
+	ROM_PSWD
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module number_morse_decoder
+
+Top level modules:
+	number_morse_decoder
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module difficulty_selector
+
+Top level modules:
+	difficulty_selector
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PSWD_Authentication
+
+Top level modules:
+	PSWD_Authentication
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Authentication
+
+Top level modules:
+	Authentication
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PlayerID
+
+Top level modules:
+	PlayerID
+
+} {} {}}

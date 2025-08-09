@@ -1,0 +1,604 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vADD_Final_Project
+!s110 1715305614
+!i10b 1
+!s100 JJHV=WaCkP]_`UVg?BHI52
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I73XX?25?On>gP5]5Rk7U81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/ADD_Demos/ADD_Final_Project/sim_final_project
+w1715304966
+8C:\ADD_Demos\ADD_Final_Project\sim_final_project\ADD_Final_Project.v
+FC:\ADD_Demos\ADD_Final_Project\sim_final_project\ADD_Final_Project.v
+!i122 198
+L0 1 53
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1715305614.000000
+!s107 C:\ADD_Demos\ADD_Final_Project\sim_final_project\ADD_Final_Project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\ADD_Demos\ADD_Final_Project\sim_final_project\ADD_Final_Project.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@d@d_@final_@project
+vAuthentication
+Z6 !s110 1715305615
+!i10b 1
+!s100 FT=aXMU2`:1h[X=Eczf>e3
+R0
+If0UdTSA]==kN=Am_gE3Aj0
+R1
+R2
+w1715300483
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v
+!i122 199
+L0 1 23
+R3
+r1
+!s85 0
+31
+Z7 !s108 1715305615.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/Authentication.v|
+!i113 1
+R4
+R5
+n@authentication
+vbutton_shaper
+R6
+!i10b 1
+!s100 :J:^JP7TjBa:H@cCNdWOX1
+R0
+IRkkIRWF>:VPVFUeMP9VPk2
+R1
+R2
+w1708355875
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v
+!i122 200
+L0 7 49
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/button_shaper.v|
+!i113 1
+R4
+R5
+vCountto10
+R6
+!i10b 1
+!s100 ez5@km@z<Mh9b31CJo9QL0
+R0
+I80N4PBeHzJ]AV`jQC877g3
+R1
+R2
+w1709926352
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto10.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto10.v
+!i122 201
+L0 1 30
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto10.v|
+!i113 1
+R4
+R5
+n@countto10
+vCountto100
+R6
+!i10b 1
+!s100 7cZ>Ff6M6mjQ:XZ:6WONk0
+R0
+IVEC>47XhoahHfFzXH_`VP3
+R1
+R2
+w1709926240
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto100.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto100.v
+!i122 202
+L0 1 32
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto100.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/Countto100.v|
+!i113 1
+R4
+R5
+n@countto100
+vdifficulty_selector
+R6
+!i10b 1
+!s100 lND^o6;FYje7S]G3FiJmg3
+R0
+IFI;2;dXfH>:UYDd:?`:m[3
+R1
+R2
+w1715293035
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v
+!i122 203
+L0 1 38
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/difficulty_selector.v|
+!i113 1
+R4
+R5
+vDigitTimer
+R6
+!i10b 1
+!s100 P:40BL`6Z`A0@9=ESbJ=K2
+R0
+I?bPT<XRUMel9lk_>lbRbX0
+R1
+R2
+w1715286573
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v
+!i122 204
+L0 5 45
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/DigitTimer.v|
+!i113 1
+R4
+R5
+n@digit@timer
+vgamecontrol
+R6
+!i10b 1
+!s100 BP>8e42U7hZ;Y8F;6Po=a3
+R0
+IT<f6LSS2jg7[Cz0`?^gjA0
+R1
+R2
+w1715238912
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v
+!i122 205
+L0 1 142
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol.v|
+!i113 1
+R4
+R5
+vgamecontrol_easy
+R6
+!i10b 1
+!s100 SWHiC3>KXYoD@C?gad7^z1
+R0
+I0az3XMY?onBXZ^`1^DdaP3
+R1
+R2
+w1715233445
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v
+!i122 206
+L0 1 19
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/gamecontrol_easy.v|
+!i113 1
+R4
+R5
+vLFSR_number_generator
+R6
+!i10b 1
+!s100 o?kn6cV8?MfXkj^n13<RD0
+R0
+I67>eH9E?:VI=AKaB_M]>c3
+R1
+R2
+w1715229304
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v
+!i122 207
+L0 1 35
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/LFSR_number_generator.v|
+!i113 1
+R4
+R5
+n@l@f@s@r_number_generator
+vmorse_number_decoder
+Z8 !s110 1715305616
+!i10b 1
+!s100 mnjT1IELTK;1>0k^I8N450
+R0
+Ik5JF0RO_d_YXH4g<GY^6O3
+R1
+R2
+w1715228434
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v
+!i122 208
+L0 1 27
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_decoder.v|
+!i113 1
+R4
+R5
+vmorse_number_easy
+R8
+!i10b 1
+!s100 ]kLMXTWVR;cBlDm6QLbK<3
+R0
+IUIZQfKco=<4hIY59[zMZ=0
+R1
+R2
+w1715229049
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v
+!i122 209
+L0 1 9
+R3
+r1
+!s85 0
+31
+Z9 !s108 1715305616.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/morse_number_easy.v|
+!i113 1
+R4
+R5
+vMy7seg
+R8
+!i10b 1
+!s100 AEoUf41KAWGSoNFT9GmBX3
+R0
+IOHhd:d_9^n=GW;HZmjmYK0
+R1
+R2
+w1711026980
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v
+!i122 210
+L0 7 29
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/My7seg.v|
+!i113 1
+R4
+R5
+n@my7seg
+vnumber_morse_decoder
+R8
+!i10b 1
+!s100 ;Q=a]F`]J3c;^HL4ULQo;1
+R0
+ISdkY0FPO15LQhH0]mk9ie1
+R1
+R2
+w1715300385
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v
+!i122 211
+L0 1 79
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/number_morse_decoder.v|
+!i113 1
+R4
+R5
+vOnemsTimer_lfsr
+R8
+!i10b 1
+!s100 G^1M?fPG0aGV0CQzVf9Wc0
+R0
+IlJUhM?h@L0ZO:JM?e:e3N3
+R1
+R2
+w1712295863
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v
+!i122 212
+L0 1 42
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/OnemsTimer_lfsr.v|
+!i113 1
+R4
+R5
+n@onems@timer_lfsr
+vPlayerID
+R8
+!i10b 1
+!s100 lXM;9PV>6:S:lBjhV[l4C3
+R0
+Ih;A]4c<2azS;PX<31>EZB0
+R1
+R2
+w1714893115
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v
+!i122 213
+L0 8 149
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID.v|
+!i113 1
+R4
+R5
+n@player@i@d
+vPlayerID_Authentication
+R8
+!i10b 1
+!s100 9i0<N2eTn6]DJ7<Gd1mdg1
+R0
+Ia7W>E1jNJad>451<oeViA0
+R1
+R2
+w1715297565
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v
+!i122 214
+L0 1 16
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/PlayerID_Authentication.v|
+!i113 1
+R4
+R5
+n@player@i@d_@authentication
+vPSWD
+R8
+!i10b 1
+!s100 `_BaBSgU5Z6?=h?3<ijz33
+R0
+IHREe1KhfQ<EaQai;ZekJV0
+R1
+R2
+w1714904829
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v
+!i122 215
+L0 6 204
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD.v|
+!i113 1
+R4
+R5
+n@p@s@w@d
+vPSWD_Authentication
+R8
+!i10b 1
+!s100 k5XOKJ`U[6=S:NXZmZYBZ3
+R0
+Idg0[nB;Sa8]7zAm=hddEk0
+R1
+R2
+w1714902979
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v
+!i122 216
+L0 6 22
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/PSWD_Authentication.v|
+!i113 1
+R4
+R5
+n@p@s@w@d_@authentication
+vROM_PlayerID
+R8
+!i10b 1
+!s100 5Qj7R?UE:=G`:Kd0]e3iE3
+R0
+IZSzCS`Ba03Xk_jVG]?43b0
+R1
+R2
+w1715291341
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v
+!i122 217
+Z10 L0 40 66
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PlayerID.v|
+!i113 1
+R4
+R5
+n@r@o@m_@player@i@d
+vROM_PSWD
+Z11 !s110 1715305617
+!i10b 1
+!s100 CAoHdDiX@2SecSFbfR7SM0
+R0
+IQXeX>S`a_Y:V<@334YehU3
+R1
+R2
+w1715291512
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v
+!i122 218
+R10
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/ROM_PSWD.v|
+!i113 1
+R4
+R5
+n@r@o@m_@p@s@w@d
+vTenSecTimer
+R11
+!i10b 1
+!s100 gA_2Rf>AOGZ8H0Fc1M7iA1
+R0
+I1@heAQ9I]A]hH5M96oJ<Z2
+R1
+R2
+w1715296858
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v
+!i122 219
+L0 1 20
+R3
+r1
+!s85 0
+31
+Z12 !s108 1715305617.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/TenSecTimer.v|
+!i113 1
+R4
+R5
+n@ten@sec@timer
+vtestbench_ADD_Final_Project
+R11
+!i10b 1
+!s100 @iDPVn7`3d5kW`H5<J5@h1
+R0
+IoJZ@ljD5>WiF6XHj?EkiF2
+R1
+R2
+w1715305608
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v
+!i122 222
+L0 2 251
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/testbench_ADD_Final_Project.v|
+!i113 1
+R4
+R5
+ntestbench_@a@d@d_@final_@project
+vTimer
+R11
+!i10b 1
+!s100 kNIUzZ05Yi[jN;Ej>1m6W3
+R0
+IRN]G_0GPcldPE>UaGNAXb0
+R1
+R2
+w1715295037
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer.v
+!i122 220
+L0 7 15
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer.v|
+!i113 1
+R4
+R5
+n@timer
+vTimer100
+R11
+!i10b 1
+!s100 FMm_PBNgD;eWIz0@1B=F83
+R0
+IM;nPoO?X95E;BXGeee<z60
+R1
+R2
+w1715295020
+8C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v
+FC:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v
+!i122 221
+L0 7 11
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_final_project/Timer100.v|
+!i113 1
+R4
+R5
+n@timer100
