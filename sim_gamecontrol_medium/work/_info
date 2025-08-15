@@ -1,0 +1,293 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vCountto10
+Z0 !s110 1715341622
+!i10b 1
+!s100 56B4M1]@WOBh?ibWFaVNX3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL2iGh3aFdY;d39hHX7^XN0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium
+w1715339797
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v
+!i122 180
+Z4 L0 1 30
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1715341622.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@countto10
+vCountto100
+R0
+!i10b 1
+!s100 JB26;5hg80I^HPiakSYZ<3
+R1
+I@blQci6IXYI[M]Z9fE4kS2
+R2
+R3
+w1715339788
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v
+!i122 181
+L0 1 32
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v|
+!i113 1
+R7
+R8
+n@countto100
+vCountto5
+R0
+!i10b 1
+!s100 ]iTAG=ciHXQZE[JznL0NO3
+R1
+ITf6g>BD]Xb;@8d3cDMck:1
+R2
+R3
+w1715340571
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v
+!i122 179
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v|
+!i113 1
+R7
+R8
+n@countto5
+vFiveSecTimer
+R0
+!i10b 1
+!s100 A7BnlFfbOjh1cWE74=4YQ3
+R1
+IGeKR6V^9^KWK:e;oNQYY_1
+R2
+R3
+w1715340583
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v
+!i122 182
+Z9 L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v|
+!i113 1
+R7
+R8
+n@five@sec@timer
+vgamecontrol
+!s110 1715331982
+!i10b 1
+!s100 i?9UDoX1BV7]n6Qmf9]>Z3
+R1
+I?T>;M9o=?^Pb8OdK:aHC<0
+R2
+R3
+w1715331836
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol.v
+!i122 79
+L0 1 223
+R5
+r1
+!s85 0
+31
+!s108 1715331982.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol.v|
+!i113 1
+R7
+R8
+vgamecontrol2
+Z10 !s110 1715341623
+!i10b 1
+!s100 :dn<cX6ojNCjHQ=[ERDXX2
+R1
+I85I@2i6kI`baI`Yhd=7YY2
+R2
+R3
+w1715341582
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v
+!i122 184
+L0 1 225
+R5
+r1
+!s85 0
+31
+Z11 !s108 1715341623.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v|
+!i113 1
+R7
+R8
+vgamecontrol_medium
+R0
+!i10b 1
+!s100 P=j;M>Jc5Hbo=n>:X]R`g3
+R1
+I61PBIi=Z`5U@TCIl=;]C]0
+R2
+R3
+w1715341616
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v
+!i122 175
+R9
+R5
+r1
+!s85 0
+31
+!s108 1715341621.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v|
+!i113 1
+R7
+R8
+vLFSR_number_generator
+R0
+!i10b 1
+!s100 o?kn6cV8?MfXkj^n13<RD0
+R1
+Id^:_O2J3^^;cdHjCXhI2S2
+R2
+R3
+w1715229304
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v
+!i122 176
+L0 1 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v|
+!i113 1
+R7
+R8
+n@l@f@s@r_number_generator
+vmorse_number
+R0
+!i10b 1
+!s100 Fm7Y6C4ka<VeQ<:SVK@4o1
+R1
+IjSJY7_1^m`SnFDNJ6BmQT0
+R2
+R3
+w1715326254
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v
+!i122 177
+L0 1 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v|
+!i113 1
+R7
+R8
+vmorse_number_decoder
+R0
+!i10b 1
+!s100 mnjT1IELTK;1>0k^I8N450
+R1
+I@36C9H6<KVVD;GeZ>CSJ@3
+R2
+R3
+w1715228434
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v
+!i122 178
+L0 1 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v|
+!i113 1
+R7
+R8
+vOnemsTimer_lfsr
+R10
+!i10b 1
+!s100 G^1M?fPG0aGV0CQzVf9Wc0
+R1
+I;jjP0I`^`m]2PaGWWZjlR2
+R2
+R3
+w1711669199
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v
+!i122 183
+L0 1 42
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v|
+!i113 1
+R7
+R8
+n@onems@timer_lfsr
+vtestbench_gamecontrol_medium
+R10
+!i10b 1
+!s100 HCbne0Z[RP7@X?n5AYBhA3
+R1
+IF]]^dSk6QHHKl3XC8Vo=a2
+R2
+R3
+w1715341062
+8C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v
+FC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v
+!i122 185
+L0 2 84
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v|
+!i113 1
+R7
+R8

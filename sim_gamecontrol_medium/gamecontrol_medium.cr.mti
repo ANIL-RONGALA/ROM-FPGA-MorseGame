@@ -1,0 +1,78 @@
+C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/OnemsTimer_lfsr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnemsTimer_lfsr
+
+Top level modules:
+	OnemsTimer_lfsr
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/LFSR_number_generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR_number_generator
+
+Top level modules:
+	LFSR_number_generator
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Countto10
+
+Top level modules:
+	Countto10
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Countto100
+
+Top level modules:
+	Countto100
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/Countto5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Countto5
+
+Top level modules:
+	Countto5
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gamecontrol2
+
+Top level modules:
+	gamecontrol2
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module morse_number
+
+Top level modules:
+	morse_number
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/FiveSecTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FiveSecTimer
+
+Top level modules:
+	FiveSecTimer
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/testbench_gamecontrol_medium.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_gamecontrol_medium
+
+Top level modules:
+	testbench_gamecontrol_medium
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/morse_number_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module morse_number_decoder
+
+Top level modules:
+	morse_number_decoder
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_medium/gamecontrol_medium.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gamecontrol_medium
+
+Top level modules:
+	gamecontrol_medium
+
+} {} {}}
