@@ -1,0 +1,179 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vCountto10
+Z0 !s110 1715287849
+!i10b 1
+!s100 ez5@km@z<Mh9b31CJo9QL0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IY;I]<`PSPfD[1Z8VZ?T>f3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ADD_Demos/ADD_Final_Project/Timer100
+w1709926352
+8C:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v
+!i122 14
+L0 1 30
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1715287849.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@countto10
+vCountto100
+R0
+!i10b 1
+!s100 7cZ>Ff6M6mjQ:XZ:6WONk0
+R1
+IidN[@ZC11`1FW>mOT`IBZ2
+R2
+R3
+w1709926240
+8C:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v
+!i122 15
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v|
+!i113 1
+R6
+R7
+n@countto100
+vDigitTimer
+R0
+!i10b 1
+!s100 P:40BL`6Z`A0@9=ESbJ=K2
+R1
+I9ccK<J8SjE;bE4JIOhWhj1
+R2
+R3
+w1715286573
+8C:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v
+!i122 16
+L0 5 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v|
+!i113 1
+R6
+R7
+n@digit@timer
+vOnemsTimer_lfsr
+R0
+!i10b 1
+!s100 G^1M?fPG0aGV0CQzVf9Wc0
+R1
+IBHjz[DN:VgoJ=A]JbfmOc2
+R2
+R3
+w1711669199
+8C:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v
+!i122 17
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v|
+!i113 1
+R6
+R7
+n@onems@timer_lfsr
+vTenSecTimer
+R0
+!i10b 1
+!s100 [o5[H3HK[D7mL=C4Bm5Y_1
+R1
+IGhXAKHZ:L7YTHiDnW;Ab@1
+R2
+R3
+w1715286688
+8C:\ADD_Demos\ADD_Final_Project\Timer100\TenSecTimer.v
+FC:\ADD_Demos\ADD_Final_Project\Timer100\TenSecTimer.v
+!i122 20
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\ADD_Demos\ADD_Final_Project\Timer100\TenSecTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\ADD_Demos\ADD_Final_Project\Timer100\TenSecTimer.v|
+!i113 1
+R6
+R7
+n@ten@sec@timer
+vTimer
+R0
+!i10b 1
+!s100 2WB<e30U3T9>oUVBf6jA:1
+R1
+I>YNe;Z:XT>ln9b4l`8mhE2
+R2
+R3
+w1715287803
+8C:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v
+!i122 18
+L0 7 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v|
+!i113 1
+R6
+R7
+n@timer
+vTimer100
+R0
+!i10b 1
+!s100 9DW8<7`VE0WJI4e_J5Lfb0
+R1
+IzTo6XCBVZef8Z<1:>=[8S1
+R2
+R3
+w1715287312
+8C:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v
+FC:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v
+!i122 19
+L0 7 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v|
+!i113 1
+R6
+R7
+n@timer100

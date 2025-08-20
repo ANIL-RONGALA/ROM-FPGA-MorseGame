@@ -1,0 +1,50 @@
+C:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/Countto10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Countto10
+
+Top level modules:
+	Countto10
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/Countto100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Countto100
+
+Top level modules:
+	Countto100
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/OnemsTimer_lfsr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnemsTimer_lfsr
+
+Top level modules:
+	OnemsTimer_lfsr
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/Timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer
+
+Top level modules:
+	Timer
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/DigitTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DigitTimer
+
+Top level modules:
+	DigitTimer
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/Timer100/Timer100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer100
+
+Top level modules:
+	Timer100
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/Timer100/TenSecTimer.v {1 {vlog -work work -stats=none {C:\ADD_Demos\ADD_Final_Project\Timer100\TenSecTimer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TenSecTimer
+
+Top level modules:
+	TenSecTimer
+
+} {} {}}
