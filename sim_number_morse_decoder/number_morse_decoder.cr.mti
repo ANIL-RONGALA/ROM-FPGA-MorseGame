@@ -1,0 +1,15 @@
+C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_number_morse_decoder
+
+Top level modules:
+	testbench_number_morse_decoder
+
+} {} {}} C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v {1 {vlog -work work -stats=none C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module number_morse_decoder
+
+Top level modules:
+	number_morse_decoder
+
+} {} {}}

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ADD_Demos/ADD_Final_Project/sim_gamecontrol_easy
+vnumber_morse_decoder
+Z0 !s110 1715266058
+!i10b 1
+!s100 CRG];mM[f0eDBkC9gb=?f1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iez42io=L;a:gc9U00LS2C3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder
+w1715265953
+8C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v
+FC:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v
+!i122 2
+L0 1 79
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1715266058.000000
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/number_morse_decoder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtestbench_number_morse_decoder
+R0
+!i10b 1
+!s100 J<`fUO9[a?zIiiIHgidml1
+R1
+Il4_XZTA5e67XNWBlk]IAN0
+R2
+R3
+w1715266055
+8C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v
+FC:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v
+!i122 3
+L0 2 34
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD_Demos/ADD_Final_Project/sim_number_morse_decoder/testbench_number_morse_decoder.v|
+!i113 1
+R6
+R7
