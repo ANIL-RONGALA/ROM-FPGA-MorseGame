@@ -1,0 +1,173 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LoggedInLED",
+					"strict" : false
+				},
+				{
+					"name" : "correct_final",
+					"strict" : false
+				},
+				{
+					"name" : "display0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ones_output[6]",
+					"strict" : false
+				},
+				{
+					"name" : "correctID",
+					"strict" : false
+				},
+				{
+					"name" : "difficulty[0]",
+					"strict" : false
+				},
+				{
+					"name" : "difficulty[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "UserDigit[0]",
+					"strict" : false
+				},
+				{
+					"name" : "UserDigit[1]",
+					"strict" : false
+				},
+				{
+					"name" : "UserDigit[2]",
+					"strict" : false
+				},
+				{
+					"name" : "UserDigit[3]",
+					"strict" : false
+				},
+				{
+					"name" : "logout",
+					"strict" : false
+				},
+				{
+					"name" : "UserLoad",
+					"strict" : false
+				},
+				{
+					"name" : "game_start",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,67 @@
+Quartus Prime Archive log --	C:/ADD_Demos/ADD_Final_Project/syn/ADD_Final_Project.qarlog
+
+Archive:	C:/ADD_Demos/ADD_Final_Project/syn/ADD_Final_Project.qar
+Date:		Fri May 10 11:17:06 2024
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ADD_Demos/ADD_Final_Project/src/ADD_Final_Project.v
+C:/ADD_Demos/ADD_Final_Project/src/Authentication.v
+C:/ADD_Demos/ADD_Final_Project/src/Countto10.v
+C:/ADD_Demos/ADD_Final_Project/src/Countto100.v
+C:/ADD_Demos/ADD_Final_Project/src/Countto3.v
+C:/ADD_Demos/ADD_Final_Project/src/Countto5.v
+C:/ADD_Demos/ADD_Final_Project/src/DigitTimer.v
+C:/ADD_Demos/ADD_Final_Project/src/DigitTimer120.v
+C:/ADD_Demos/ADD_Final_Project/src/FiveSecTimer.v
+C:/ADD_Demos/ADD_Final_Project/src/LFSR_number_generator.v
+C:/ADD_Demos/ADD_Final_Project/src/LoadRegister.v
+C:/ADD_Demos/ADD_Final_Project/src/My7seg.v
+C:/ADD_Demos/ADD_Final_Project/src/OnemsTimer_lfsr.v
+C:/ADD_Demos/ADD_Final_Project/src/PSWD.v
+C:/ADD_Demos/ADD_Final_Project/src/PSWD_Authentication.v
+C:/ADD_Demos/ADD_Final_Project/src/PSWD_ROM_mem.hex
+C:/ADD_Demos/ADD_Final_Project/src/PlayerID.v
+C:/ADD_Demos/ADD_Final_Project/src/PlayerID_Authentication.v
+C:/ADD_Demos/ADD_Final_Project/src/PlayerID_ROM_mem.hex
+C:/ADD_Demos/ADD_Final_Project/src/TenSecTimer.v
+C:/ADD_Demos/ADD_Final_Project/src/ThreeSecTimer.v
+C:/ADD_Demos/ADD_Final_Project/src/Timer.v
+C:/ADD_Demos/ADD_Final_Project/src/Timer100.v
+C:/ADD_Demos/ADD_Final_Project/src/Timer120.v
+C:/ADD_Demos/ADD_Final_Project/src/Timer_med.v
+C:/ADD_Demos/ADD_Final_Project/src/button_shaper.v
+C:/ADD_Demos/ADD_Final_Project/src/difficulty_selector.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol2.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol3.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_easy.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_hard.v
+C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_medium.v
+C:/ADD_Demos/ADD_Final_Project/src/morse_number.v
+C:/ADD_Demos/ADD_Final_Project/src/morse_number_decoder.v
+C:/ADD_Demos/ADD_Final_Project/src/morse_number_decoder_hard.v
+C:/ADD_Demos/ADD_Final_Project/src/morse_number_hard.v
+C:/ADD_Demos/ADD_Final_Project/src/number_morse_decoder.v
+C:/ADD_Demos/ADD_Final_Project/src/signal_MUX.v
+C:/ADD_Demos/ADD_Final_Project/src/signal_MUX_4bit.v
+C:/ADD_Demos/ADD_Final_Project/syn/ADD_Final_Project.qpf
+C:/ADD_Demos/ADD_Final_Project/syn/ADD_Final_Project.qsf
+C:/ADD_Demos/ADD_Final_Project/syn/PSWD_ROM_mem.hex
+C:/ADD_Demos/ADD_Final_Project/syn/PlayerID_ROM_mem.hex
+C:/ADD_Demos/ADD_Final_Project/syn/RAM_Score.qip
+C:/ADD_Demos/ADD_Final_Project/syn/RAM_Score.v
+C:/ADD_Demos/ADD_Final_Project/syn/RAM_Score_bb.v
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PSWD.qip
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PSWD.v
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PSWD_bb.v
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PlayerID.qip
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PlayerID.v
+C:/ADD_Demos/ADD_Final_Project/syn/ROM_PlayerID_bb.v
+C:/ADD_Demos/ADD_Final_Project/syn/output_files/ram_score_mem.hex
+C:/ADD_Demos/ADD_Final_Project/syn/ram_score_mem.hex
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 56 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

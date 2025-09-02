@@ -1,0 +1,97 @@
+
+State Machine - |ADD_Final_Project|gamecontrol_hard:gamecontrol_hard1|gamecontrol3:gamecontrol_hard|state
+Name state.DECISION state.COMPARE3 state.WAIT4 state.COMPARE2 state.WAIT3 state.COMPARE1 state.WAIT2 state.BUFFER3 state.START3 state.BUFFER2 state.START2 state.BUFFER1 state.START1 state.WAIT1 state.RECONFIG state.INITIAL state.GAMEOVER 
+state.INITIAL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.RECONFIG 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 
+state.WAIT1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 
+state.START1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 
+state.BUFFER1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
+state.START2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
+state.BUFFER2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
+state.START3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
+state.BUFFER3 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 
+state.WAIT2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
+state.COMPARE1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 
+state.WAIT3 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 
+state.COMPARE2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 
+state.WAIT4 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+state.COMPARE3 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+state.DECISION 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+state.GAMEOVER 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+
+State Machine - |ADD_Final_Project|gamecontrol_medium:gamecontrol_med|gamecontrol2:gamecontrol_med|state
+Name state.GAMEOVER state.DECISION state.COMPARE2 state.WAIT3 state.COMPARE1 state.WAIT2 state.BUFFER2 state.START2 state.BUFFER1 state.START1 state.WAIT1 state.RECONFIG state.INITIAL 
+state.INITIAL 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.RECONFIG 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.WAIT1 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state.START1 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state.BUFFER1 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state.START2 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state.BUFFER2 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state.WAIT2 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state.COMPARE1 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state.WAIT3 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state.COMPARE2 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state.DECISION 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state.GAMEOVER 1 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |ADD_Final_Project|gamecontrol_easy:gamecontrol1|gamecontrol:gamecontrol1|state
+Name state.GAME_OVER state.COMPARE state.WAIT2 state.START state.WAIT1 state.RECONFIG state.INITIAL 
+state.INITIAL 0 0 0 0 0 0 0 
+state.RECONFIG 0 0 0 0 0 1 1 
+state.WAIT1 0 0 0 0 1 0 1 
+state.START 0 0 0 1 0 0 1 
+state.WAIT2 0 0 1 0 0 0 1 
+state.COMPARE 0 1 0 0 0 0 1 
+state.GAME_OVER 1 0 0 0 0 0 1 
+
+State Machine - |ADD_Final_Project|Authentication:Authentication1|PSWD_Authentication:Pswd_authentication1|PSWD:PSWD1|state
+Name state.WAIT2 state.WAIT1 state.PASSED state.COMPARE state.ROMCATCH state.ROMCYC2 state.ROMCYC1 state.FETCHROM state.DIGIT_SIX state.DIGIT_FIVE state.DIGIT_FOUR state.DIGIT_THREE state.DIGIT_TWO state.DIGIT_ONE state.INITIAL 
+state.INITIAL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+state.DIGIT_ONE 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.DIGIT_TWO 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+state.DIGIT_THREE 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+state.DIGIT_FOUR 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+state.DIGIT_FIVE 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+state.DIGIT_SIX 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+state.FETCHROM 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+state.ROMCYC1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+state.ROMCYC2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+state.ROMCATCH 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+state.COMPARE 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+state.PASSED 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+state.WAIT1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+state.WAIT2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |ADD_Final_Project|Authentication:Authentication1|PlayerID_Authentication:PlayerID_Authentication1|PlayerID:PlayerID1|state
+Name state.GUEST_CHK state.STATUS_CHK state.COMPARE state.ROMCATCH state.ROMCYC2 state.ROMCYC1 state.FETCHROM state.DIGIT_FOUR state.DIGIT_THREE state.DIGIT_TWO state.DIGIT_ONE state.INITIAL 
+state.INITIAL 0 0 0 0 0 0 0 0 0 0 0 0 
+state.DIGIT_ONE 0 0 0 0 0 0 0 0 0 0 1 1 
+state.DIGIT_TWO 0 0 0 0 0 0 0 0 0 1 0 1 
+state.DIGIT_THREE 0 0 0 0 0 0 0 0 1 0 0 1 
+state.DIGIT_FOUR 0 0 0 0 0 0 0 1 0 0 0 1 
+state.FETCHROM 0 0 0 0 0 0 1 0 0 0 0 1 
+state.ROMCYC1 0 0 0 0 0 1 0 0 0 0 0 1 
+state.ROMCYC2 0 0 0 0 1 0 0 0 0 0 0 1 
+state.ROMCATCH 0 0 0 1 0 0 0 0 0 0 0 1 
+state.COMPARE 0 0 1 0 0 0 0 0 0 0 0 1 
+state.STATUS_CHK 0 1 0 0 0 0 0 0 0 0 0 1 
+state.GUEST_CHK 1 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |ADD_Final_Project|button_shaper:shaper3|State
+Name State.INIT State.WAIT State.PULSE 
+State.INIT 0 0 0 
+State.PULSE 1 0 1 
+State.WAIT 1 1 0 
+
+State Machine - |ADD_Final_Project|button_shaper:shaper2|State
+Name State.INIT State.WAIT State.PULSE 
+State.INIT 0 0 0 
+State.PULSE 1 0 1 
+State.WAIT 1 1 0 
+
+State Machine - |ADD_Final_Project|button_shaper:shaper1|State
+Name State.INIT State.WAIT State.PULSE 
+State.INIT 0 0 0 
+State.PULSE 1 0 1 
+State.WAIT 1 1 0 

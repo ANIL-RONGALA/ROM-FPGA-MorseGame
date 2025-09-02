@@ -1,0 +1,172 @@
+Archive Project report for ADD_Final_Project
+Fri May 10 11:17:06 2024
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri May 10 11:17:06 2024 ;
+; Revision Name          ; ADD_Final_Project                     ;
+; Top-level Entity Name  ; ADD_Final_Project                     ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/ADD_Demos/ADD_Final_Project/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/ADD_Demos/ADD_Final_Project/syn/ADD_Final_Project.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'ADD_Final_Project.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/20.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Fri May 10 11:17:06 2024
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------------------------------------+
+; Files Archived                                                 ;
++----------------------------------------------------------------+
+; File Name                                                      ;
++----------------------------------------------------------------+
+; ../src/ADD_Final_Project.v                                     ;
+; ../src/Authentication.v                                        ;
+; ../src/button_shaper.v                                         ;
+; ../src/Countto3.v                                              ;
+; ../src/Countto5.v                                              ;
+; ../src/Countto10.v                                             ;
+; ../src/Countto100.v                                            ;
+; ../src/difficulty_selector.v                                   ;
+; ../src/DigitTimer.v                                            ;
+; ../src/DigitTimer120.v                                         ;
+; ../src/FiveSecTimer.v                                          ;
+; ../src/gamecontrol.v                                           ;
+; ../src/gamecontrol2.v                                          ;
+; ../src/gamecontrol3.v                                          ;
+; ../src/gamecontrol_easy.v                                      ;
+; ../src/gamecontrol_hard.v                                      ;
+; ../src/gamecontrol_medium.v                                    ;
+; ../src/LFSR_number_generator.v                                 ;
+; ../src/LoadRegister.v                                          ;
+; ../src/morse_number.v                                          ;
+; ../src/morse_number_decoder.v                                  ;
+; ../src/morse_number_decoder_hard.v                             ;
+; ../src/morse_number_hard.v                                     ;
+; ../src/My7seg.v                                                ;
+; ../src/number_morse_decoder.v                                  ;
+; ../src/OnemsTimer_lfsr.v                                       ;
+; ../src/PlayerID.v                                              ;
+; ../src/PlayerID_Authentication.v                               ;
+; ../src/PlayerID_ROM_mem.hex                                    ;
+; ../src/PSWD.v                                                  ;
+; ../src/PSWD_Authentication.v                                   ;
+; ../src/PSWD_ROM_mem.hex                                        ;
+; ../src/signal_MUX.v                                            ;
+; ../src/signal_MUX_4bit.v                                       ;
+; ../src/TenSecTimer.v                                           ;
+; ../src/ThreeSecTimer.v                                         ;
+; ../src/Timer.v                                                 ;
+; ../src/Timer100.v                                              ;
+; ../src/Timer120.v                                              ;
+; ../src/Timer_med.v                                             ;
+; ADD_Final_Project.qpf                                          ;
+; ADD_Final_Project.qsf                                          ;
+; C:/ADD_Demos/ADD_Final_Project/src/ADD_Final_Project.v         ;
+; C:/ADD_Demos/ADD_Final_Project/src/Authentication.v            ;
+; C:/ADD_Demos/ADD_Final_Project/src/button_shaper.v             ;
+; C:/ADD_Demos/ADD_Final_Project/src/Countto3.v                  ;
+; C:/ADD_Demos/ADD_Final_Project/src/Countto5.v                  ;
+; C:/ADD_Demos/ADD_Final_Project/src/Countto10.v                 ;
+; C:/ADD_Demos/ADD_Final_Project/src/Countto100.v                ;
+; C:/ADD_Demos/ADD_Final_Project/src/difficulty_selector.v       ;
+; C:/ADD_Demos/ADD_Final_Project/src/DigitTimer.v                ;
+; C:/ADD_Demos/ADD_Final_Project/src/DigitTimer120.v             ;
+; C:/ADD_Demos/ADD_Final_Project/src/FiveSecTimer.v              ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol.v               ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol2.v              ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol3.v              ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_easy.v          ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_hard.v          ;
+; C:/ADD_Demos/ADD_Final_Project/src/gamecontrol_medium.v        ;
+; C:/ADD_Demos/ADD_Final_Project/src/LFSR_number_generator.v     ;
+; C:/ADD_Demos/ADD_Final_Project/src/LoadRegister.v              ;
+; C:/ADD_Demos/ADD_Final_Project/src/morse_number.v              ;
+; C:/ADD_Demos/ADD_Final_Project/src/morse_number_decoder.v      ;
+; C:/ADD_Demos/ADD_Final_Project/src/morse_number_decoder_hard.v ;
+; C:/ADD_Demos/ADD_Final_Project/src/morse_number_hard.v         ;
+; C:/ADD_Demos/ADD_Final_Project/src/My7seg.v                    ;
+; C:/ADD_Demos/ADD_Final_Project/src/number_morse_decoder.v      ;
+; C:/ADD_Demos/ADD_Final_Project/src/OnemsTimer_lfsr.v           ;
+; C:/ADD_Demos/ADD_Final_Project/src/PlayerID.v                  ;
+; C:/ADD_Demos/ADD_Final_Project/src/PlayerID_Authentication.v   ;
+; C:/ADD_Demos/ADD_Final_Project/src/PlayerID_ROM_mem.hex        ;
+; C:/ADD_Demos/ADD_Final_Project/src/PSWD.v                      ;
+; C:/ADD_Demos/ADD_Final_Project/src/PSWD_Authentication.v       ;
+; C:/ADD_Demos/ADD_Final_Project/src/PSWD_ROM_mem.hex            ;
+; C:/ADD_Demos/ADD_Final_Project/src/signal_MUX.v                ;
+; C:/ADD_Demos/ADD_Final_Project/src/signal_MUX_4bit.v           ;
+; C:/ADD_Demos/ADD_Final_Project/src/TenSecTimer.v               ;
+; C:/ADD_Demos/ADD_Final_Project/src/ThreeSecTimer.v             ;
+; C:/ADD_Demos/ADD_Final_Project/src/Timer.v                     ;
+; C:/ADD_Demos/ADD_Final_Project/src/Timer100.v                  ;
+; C:/ADD_Demos/ADD_Final_Project/src/Timer120.v                  ;
+; C:/ADD_Demos/ADD_Final_Project/src/Timer_med.v                 ;
+; c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf   ;
+; output_files/ram_score_mem.hex                                 ;
+; PlayerID_ROM_mem.hex                                           ;
+; PSWD_ROM_mem.hex                                               ;
+; RAM_Score.qip                                                  ;
+; RAM_Score.v                                                    ;
+; RAM_Score_bb.v                                                 ;
+; ram_score_mem.hex                                              ;
+; ROM_PlayerID.qip                                               ;
+; ROM_PlayerID.v                                                 ;
+; ROM_PlayerID_bb.v                                              ;
+; ROM_PSWD.qip                                                   ;
+; ROM_PSWD.v                                                     ;
+; ROM_PSWD_bb.v                                                  ;
++----------------------------------------------------------------+
+
+

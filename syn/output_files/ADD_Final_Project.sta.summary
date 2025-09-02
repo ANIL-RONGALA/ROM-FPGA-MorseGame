@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -3.047
+TNS   : -1419.347
+
+Type  : Slow 1100mV 85C Model Setup 'rst'
+Slack : -2.569
+TNS   : -2.569
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.278
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'rst'
+Slack : 0.809
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.636
+TNS   : -620.254
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'rst'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -3.044
+TNS   : -1341.902
+
+Type  : Slow 1100mV 0C Model Setup 'rst'
+Slack : -2.679
+TNS   : -2.679
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.259
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'rst'
+Slack : 0.841
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.636
+TNS   : -634.986
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'rst'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -1.611
+TNS   : -740.780
+
+Type  : Fast 1100mV 85C Model Setup 'rst'
+Slack : -0.826
+TNS   : -0.826
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'rst'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -208.674
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'rst'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -1.417
+TNS   : -642.851
+
+Type  : Fast 1100mV 0C Model Setup 'rst'
+Slack : -0.728
+TNS   : -0.728
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'rst'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -210.748
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'rst'
+Slack : 0.001
+TNS   : 0.000
+
+------------------------------------------------------------
